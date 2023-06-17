@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+}
+.games{
+    background-color: aqua;
+    width: 100%;
+    text-align: center;
+}
+.games img{
+    width: 300px;
+    height: 200px;
+}
+h2{
+    text-align: center;
+}
+img{
+    ;
+}
+.fifa-img 
+{
+    text-align: center;
+    background-color: blue;
+}
+.a{
+    color: blue;
+    background-color:black;
+    border: 10px dotted orange;
+    width: 900px;
+    height: 600px;
+    margin: 50px auto;
+}
+.minecraft-img{
+    text-align: center;
+ 
+}
+.minecraft-img img{
+    width: 300px;
+    height: 200px;
+    margin: 15px   
+}
+.roblox-img{
+    text-align: center;
+}
+.roblox-img img{
+    width: 300px;
+    height: 200px;
+    margin: 15px
+}
+.standoff2-img{
+    text-align: center;
+}
+.standoff2-img img{
+    width: 300px;
+    height: 200px;
+    margin: 15px
+}
